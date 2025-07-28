@@ -16,12 +16,3 @@ ShutterSpace is a simple, clean **photography-themed mini project** website buil
 
 > No JavaScript. Just pure HTML & CSS!
 
-## 📸 Screenshot
-
-![Screenshot](Screenshot%202025-07-28%20at%2010.11.14.jpeg)
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/shutterspace.git
